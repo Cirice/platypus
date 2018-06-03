@@ -1,0 +1,5 @@
+redis-conf:
+    ip: "redis"
+    port: 6379
+
+base-url: "http://your-awsome-website.com/"

@@ -1,0 +1,25 @@
+version: '3'
+services:
+  redis:
+     image: redis:3.2
+     container_name: redis
+     networks:
+        - platypus-net
+     restart: always
+  platypus:
+     build:  .
+     depends_on: 
+            - redis
+     container_name: platypus
+     volumes:
+            - ./conf:/home/platypus/conf
+            - ./log:/home/platypus/log
+     ports:
+            - 6666:6666
+     networks:
+            - platypus-net
+ 
+networks:
+  platypus-net:
+    external: true
+  

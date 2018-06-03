@@ -1,0 +1,56 @@
+2017-06-30 10:56:22,698 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2017-06-30 10:56:22,730 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2017-06-30 10:57:30,810 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2017-06-30 10:57:30,846 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2017-06-30 10:59:37,936 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2017-06-30 10:59:37,963 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2017-06-30 10:59:46,691 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 10:59:46,702 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 10:59:48,066 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 10:59:48,067 INFO (worker-2) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 10:59:49,238 INFO (worker-3) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 10:59:49,239 INFO (worker-3) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 10:59:50,195 INFO (worker-4) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 10:59:50,196 INFO (worker-4) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 10:59:51,144 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 10:59:51,145 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 10:59:52,583 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 10:59:52,585 INFO (worker-2) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 11:01:17,629 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2017-06-30 11:01:17,669 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2017-06-30 11:01:23,946 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:01:23,963 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 11:01:25,731 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:01:25,732 INFO (worker-2) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 11:13:08,642 INFO (worker-3) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:13:23,203 INFO (worker-4) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:14:35,902 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:14:50,219 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:15:24,010 INFO (worker-3) [platypus.core] - Checking if the request is of valid json type.
+2017-06-30 11:15:24,011 INFO (worker-3) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2017-06-30 15:52:51,323 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2017-06-30 15:52:51,363 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2018-06-03 22:36:25,942 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2018-06-03 22:36:25,983 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2018-06-03 22:37:33,529 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2018-06-03 22:37:33,614 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2018-06-03 22:38:07,850 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 22:38:07,859 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2018-06-03 22:38:10,818 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 22:38:10,821 INFO (worker-2) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2018-06-03 18:50:30,729 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2018-06-03 18:50:30,765 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2018-06-03 18:50:31,252 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 18:50:31,269 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2018-06-03 18:50:42,492 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 18:50:42,493 INFO (worker-2) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2018-06-03 18:53:55,319 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2018-06-03 18:53:55,359 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2018-06-03 18:54:05,735 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 18:54:05,756 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2018-06-03 18:54:12,988 INFO (worker-2) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 18:54:12,989 INFO (worker-2) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
+2018-06-03 19:02:14,220 INFO (main) [platypus.utilities] - Reading the configuration file:  conf/default-conf.yml
+2018-06-03 19:02:14,254 INFO (main) [platypus.core] - Running the URL shortening server on port  6666
+2018-06-03 19:02:24,127 INFO (worker-1) [platypus.core] - Checking if the request is of valid json type.
+2018-06-03 19:02:24,147 INFO (worker-1) [platypus.core] - Shortening URL:  https://stackoverflow.com/questions/7172784/how-to-post-json-data-with-curl-from-terminal-commandline-to-test-spring-rest
